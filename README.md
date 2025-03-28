@@ -1,6 +1,7 @@
 # Task Management Application
 
-A comprehensive task management application built with React, Redux, Material UI, and drag-and-drop functionality.
+- A comprehensive task management application built with React, Redux, Material UI, and drag-and-drop functionality.
+- You can access the deployed version of the application at [https://todoify-ten.vercel.app/](https://todoify-ten.vercel.app/).
 
 ## Features
 
